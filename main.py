@@ -6,7 +6,6 @@ import random
 
 SCREEN_SIZE = [430, 420]
 
-
 class Example(QMainWindow):
     def __init__(self):
         super().__init__()
